@@ -1,0 +1,271 @@
+#LyX 1.6.7 created this file. For more info see http://www.lyx.org/
+\lyxformat 345
+\begin_document
+\begin_header
+\textclass book
+\use_default_options true
+\language english
+\inputencoding auto
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+
+\graphics default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_amsmath 1
+\use_esint 1
+\cite_engine basic
+\use_bibtopic false
+\paperorientation portrait
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\defskip medskip
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\author "" 
+\author "" 
+\end_header
+
+\begin_body
+
+\begin_layout Title
+Notes on Model Thinking
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Based on Professor Scott E.
+ Page's Coursera course at www.modelthinker-class.org
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Author
+
+\noun on
+Amber Jain
+\noun default
+
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+http://amberj.devio.us/
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section*
+Preface
+\end_layout
+
+\begin_layout Standard
+Hello
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset toc
+LatexCommand tableofcontents
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section*
+Preface
+\end_layout
+
+\begin_layout Standard
+Hello
+\end_layout
+
+\begin_layout Chapter
+Introduction: Why model?
+\end_layout
+
+\begin_layout Section
+Why model?
+\end_layout
+
+\begin_layout Standard
+We need to understand models primarily due to 4 reasons:
+\end_layout
+
+\begin_layout Enumerate
+To be an 
+\emph on
+intelligent citizen
+\emph default
+ of the world.
+\end_layout
+
+\begin_layout Enumerate
+Models make us 
+\emph on
+better thinkers.
+\end_layout
+
+\begin_layout Enumerate
+To 
+\emph on
+understand and use data
+\emph default
+.
+\end_layout
+
+\begin_layout Enumerate
+To 
+\emph on
+decide
+\emph default
+, 
+\emph on
+strategize
+\emph default
+, and 
+\emph on
+design
+\emph default
+.
+\end_layout
+
+\begin_layout Standard
+Here's a brief description of each of the 4 reasons listed above
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+All four reasons are explained in detail in sections that follow Section
+ 1.1.
+\end_layout
+
+\end_inset
+
+:
+\end_layout
+
+\begin_layout Subsection
+To be an intelligent citizen of the world
+\end_layout
+
+\begin_layout Standard
+Some of us might classically think of liberal arts education as having a
+ long shelf of great books that everyone should know.
+ When the great books curriculum was formed, most of human knowledge didn't
+ have models in it.
+ Models are a relatively new phenomena.
+ When you go to college, you'll find: 
+\begin_inset Quotes eld
+\end_inset
+
+Oh my gosh! I'm learning models in this course
+\begin_inset Quotes erd
+\end_inset
+
+ (whether you take anthropology to zoology, or anywhere in between).
+ So, models are everywhere.
+ And so in order to just be involved in a conversation, it's important these
+ days that you can use and understand models.
+\end_layout
+
+\begin_layout Subsection
+Models make us better thinkers
+\end_layout
+
+\begin_layout Standard
+The reason models are everywhere (from anthropology to zoology) is that
+ they're better.
+ They sort of make us clearer, better thinkers.
+ For instance, people using models to make decisions do better that people
+ not using models (to make decisions) in horse race.
+ So, models just make you a better thinker.
+ The reason behind this is that models (sort of) weed out the logical inconsiste
+ncies.
+ They're analogous to a crutch.
+ We humans think crazy/silly things; we can't think through all the logical
+ consequences.
+ Models sort of tie us to the mast (a little bit).
+ And in doing so, we think better.
+\end_layout
+
+\begin_layout Subsection
+To understand and use data
+\end_layout
+
+\begin_layout Standard
+There's just so much data out there.
+ The situation was not same many years ago.
+ Back then (when Professor Scott E.
+ Page
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+http://www.cscs.umich.edu/~spage/
+\end_layout
+
+\end_inset
+
+ first became a social scientist), it was a real effort for somebody to
+ go and grab a data set.
+ Now there's just a ton of it.
+ Prof.
+ Scott E.
+ Page thinks of this as a fire hose of data, but his friends, who are computer
+ scientists, call it a hairball of data instead (because the data is all
+ mangled and messed up).
+ So, models take that data and (sort of) structure it into information,
+ and then turn that information into knowledge.
+ And so, without models, all we've just got is a whole bunch of numbers
+ out there.
+ With models, we actually get information and knowledge and eventually maybe
+ even some wisdom (at least we can hope so).
+\end_layout
+
+\begin_layout Subsection
+To decide, strategize, and design
+\end_layout
+
+\begin_layout Standard
+When you've gotta make a decision (no matter what you do), it's helpful
+ to build or structure information in a way to make better decisions.
+ You'll learn about things like decision trees and game theory models, to
+ help make better decisions and to strategize better.
+ Moreover, at the very end of class (notes), we'll talk about design issues.
+ One can use models to design things like institutions, policies etc.
+ So, models just make people better at making choices and taking actions.
+\end_layout
+
+\begin_layout LyX-Code
+
+\noun on
+TODO: Add more Notes from Video-1 of Unit-1.
+\end_layout
+
+\begin_layout Section
+Intelligent citizen of the world
+\end_layout
+
+\end_body
+\end_document
