@@ -75,18 +75,908 @@ http://amberj.devio.us/
 
 \end_layout
 
-\begin_layout Section*
-Preface
+\begin_layout Quotation
+The best book on programming for the layman is "Alice in Wonderland"; but
+ that's because it's the best book on anything for the layman.
+ 
 \end_layout
 
-\begin_layout Standard
-Hello
+\begin_layout Quotation
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+-- 
+\emph on
+Alan Perlis
+\emph default
+
+\begin_inset Newline newline
+\end_inset
+
+
 \end_layout
 
-\begin_layout Standard
-\begin_inset CommandInset toc
-LatexCommand tableofcontents
+\begin_layout Quotation
+Mental models are fuzzy, incomplete, and imprecisely stated.
+ Furthermore, within a single individual, mental models change with time,
+ even during the flow of a single conversation.
+ The human mind assembles a few relationships to fit the context of a discussion.
+ As debate shifts, so do the mental models.
+ Even when only a single topic is being discussed, each participant in a
+ conversation employs a different mental model to interpret the subject.
+ Fundamental assumptions differ but are never brought into the open.
+ Goals are different but left unstated.
+ It is little wonder that compromise takes so long.
+ And even when consensus is reached, the underlying assumptions may be fallacies
+ that lead to laws and programs that fail.
+ The human mind is not adapted to understanding correctly the consequences
+ implied by a mental model.
+ A mental model may be correct in structure and assumptions but, even so,
+ the human mind--either individually or as a group consensus--is apt to
+ draw the wrong implications for the future.
+\end_layout
 
+\begin_layout Quotation
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+-- 
+\emph on
+Jay Wright Forrester
+\begin_inset Newline newline
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quotation
+Never memorize something that you can look up.
+\end_layout
+
+\begin_layout Quotation
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+-- 
+\emph on
+Albert Einstein
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
 \end_inset
 
 
@@ -97,7 +987,180 @@ Preface
 \end_layout
 
 \begin_layout Standard
-Hello
+This notes compilation is based on free 
+\emph on
+Model Thinking
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+www.modelthinker-class.org
+\end_layout
+
+\end_inset
+
+
+\emph default
+ Coursera
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+https://www.coursera.org/
+\end_layout
+
+\end_inset
+
+ course by Professor Scott E.
+ Page
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+http://www.cscs.umich.edu/~spage/
+\end_layout
+
+\end_inset
+
+ (of University of Michigan).
+\end_layout
+
+\begin_layout Standard
+We live in a complex world with diverse people, firms, and governments whose
+ behaviors aggregate to produce novel, unexpected phenomena.
+ We see political uprisings, market crashes, and a never ending array of
+ social trends.
+ How do we make sense of it?
+\end_layout
+
+\begin_layout Standard
+Models.
+ Evidence shows that people who think with models consistently outperform
+ those who don't.
+ And, moreover people who think with lots of models outperform people who
+ use only one.
+\end_layout
+
+\begin_layout Standard
+Why do models make us better thinkers? Because models help us to better
+ organize information - to make sense of that fire hose or hairball of data
+ (choose your metaphor) available on the Internet.
+ Models improve our abilities to make accurate forecasts.
+ They help us make better decisions and adopt more effective strategies.
+ They even can improve our ability to design institutions and procedures.
+\end_layout
+
+\begin_layout Standard
+These notes present a starter kit of models: Broadly speaking, these notes
+ will cover models such as models of tipping points, models that explain
+ the wisdom of crowds, models that show why some countries are rich and
+ some are poor, and models that help unpack the strategic decisions of firm
+ and politicians.
+\end_layout
+
+\begin_layout Standard
+The models covered in these notes provide a foundation for future social
+ science classes, whether they be in economics, political science, business,
+ or sociology.
+ Mastering this material will give you a huge leg up in advanced courses.
+ They also help you in life.
+\end_layout
+
+\begin_layout Subsection*
+About the Website
+\end_layout
+
+\begin_layout Standard
+http://amberj.github.com/modelthinking-notes/, the website for these notes,
+ contains
+\end_layout
+
+\begin_layout Itemize
+A link to (freely downlodable) latest version of this document.
+\end_layout
+
+\begin_layout Itemize
+Link to download LaTeX/LyX
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+http://www.lyx.org/
+\end_layout
+
+\end_inset
+
+ source for this document.
+\end_layout
+
+\begin_layout Itemize
+Information about Coursera's (online) 
+\emph on
+Model Thinking
+\emph default
+ course (by Professor Scott E.
+ Page, University of Michigan).
+\end_layout
+
+\begin_layout Itemize
+Miscellaneous material (e.g.
+ suggested readings, related video lectures etc.).
+\end_layout
+
+\begin_layout Subsection*
+Acknowledgements
+\end_layout
+
+\begin_layout Standard
+This notes compilation would not have been possible without Professor Scott
+ E.
+ Page's free online course.
+ I'll also like to thank many contributors on course forums, discussion
+ groups etc.
+ for all discussions which improved my understanding of Prof.
+ Page's course.
+ 
+\end_layout
+
+\begin_layout Standard
+A special word of thanks goes to LyX
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+http://www.lyx.org/
+\end_layout
+
+\end_inset
+
+ development team (and thus to Professor Donald Knuth for TeX and Leslie
+ Lamport for LaTeX).
+\end_layout
+
+\begin_layout Standard
+I'll like to thank my parents, colleagues and friends for their support
+ and encouragement.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Amber Jain
+\begin_inset Newline newline
+\end_inset
+
+http://amberj.devio.us/
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset toc
+LatexCommand tableofcontents
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Chapter
